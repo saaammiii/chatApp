@@ -1,3 +1,3 @@
 # chatApp
 
-https://saaammiii.github.io/chatApp/
+https://saaammiii.github.io/chatApp/chatapp
